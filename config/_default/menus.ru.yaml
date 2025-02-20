@@ -1,0 +1,13 @@
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Главная
+    url: /
+    weight: 10
+  - name: Посты
+    url: tags/
+    weight: 20
+  - name: Использования
+    url: uses/
+    weight: 30
