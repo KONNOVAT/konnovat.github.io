@@ -3,7 +3,7 @@
 
 main:
   - name: Главная
-    url: home/
+    url: /
     weight: 10
   - name: Посты
     url: tags/
