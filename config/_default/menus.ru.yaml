@@ -8,6 +8,6 @@ main:
   - name: Посты
     url: tags/
     weight: 20
-  - name: Использования
+  - name: Инструменты для разработки
     url: uses/
     weight: 30

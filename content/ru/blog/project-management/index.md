@@ -1,7 +1,7 @@
 ---
 title: ✅ Управляй своими проектами
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+summary: Легко управляйте своими проектами — создавайте карты идей, диаграммы Ганта, списки дел и многое другое!
+date: 2025-02-20
 authors:
   - admin
 tags:
@@ -11,7 +11,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+Легко управляйте своими проектами — создавайте карты идей, диаграммы Ганта, списки дел и многое другое!
 
 ## Ideation
 

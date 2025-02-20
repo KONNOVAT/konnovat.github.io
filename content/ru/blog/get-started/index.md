@@ -1,6 +1,6 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+title: 🎉 Легко создайте свой собственный простой, но в то же время легко настраиваемый блог
+summary: Получите полный контроль над своим личным брендом и конфиденциальностью, отказавшись от крупных технологических платформ!
 date: 2023-10-27
 
 # Featured image
