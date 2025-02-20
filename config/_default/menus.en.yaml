@@ -3,7 +3,7 @@
 
 main:
   - name: Home
-    url: /
+    url: home/
     weight: 10
   - name: Topics
     url: tags/
