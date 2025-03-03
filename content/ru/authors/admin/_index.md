@@ -22,7 +22,7 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Мои исследовательские интересы включают разработку c использованием  Large Language Models.
+bio: Мои исследовательские интересы включают разработку c использованием Large Language Models.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
